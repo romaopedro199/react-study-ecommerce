@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+:root {
+  --color-primary: #00b894;
+  --color-primary-hover: #009b7c;
+  --color-light: #ffffff;
+  --color-grey: #ecf0f1;
+  --color-grey-dark: #9fa4a7;
+  --color-dark: #34495e;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
